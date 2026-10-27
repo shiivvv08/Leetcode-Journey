@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shiivvv08/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
