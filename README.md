@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/shiivvv08/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shiivvv08/Leetcode-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -62,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiivvv08/Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
